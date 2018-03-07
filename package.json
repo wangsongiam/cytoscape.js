@@ -1,52 +1,8 @@
 {
-  "name": "cytoscape",
-  "version": "3.2.9",
+  "name": "cytoscape-songwang",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Graph theory (a.k.a. network) library for analysis and visualisation",
-  "homepage": "http://js.cytoscape.org",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cytoscape/cytoscape.js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/cytoscape/cytoscape.js/issues"
-  },
-  "author": {
-    "name": "Max Franz",
-    "email": "maxkfranz@gmail.com",
-    "url": "http://maxfranz.com"
-  },
-  "contributors": [
-    {
-      "name": "Max Franz",
-      "email": "maxkfranz@gmail.com",
-      "url": "http://maxfranz.com"
-    },
-    {
-      "name": "Christian Lopes",
-      "email": "chrtannus@gmail.com"
-    },
-    {
-      "name": "Yue Dong",
-      "email": "oryato@gmail.com"
-    },
-    {
-      "name": "Onur Sumer",
-      "email": "s.onur.sumer@gmail.com"
-    },
-    {
-      "name": "Gerardo Huck",
-      "email": "gerardohuck@gmail.com"
-    },
-    {
-      "name": "Dylan Fong",
-      "email": "dylanfong.ut@gmail.com"
-    },
-    {
-      "name": "Joseph Stahl",
-      "email": "joseph@josephstahl.com"
-    }
-  ],
   "keywords": [
     "graph",
     "graph-theory",
