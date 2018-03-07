@@ -27889,7 +27889,7 @@ CRp.safeDrawImage = function (context, img, ix, iy, iw, ih, x, y, w, h) {
   var r = this;
 
   // detect problematic cases for old browsers with bad images (cheaper than try-catch)
-  if (iw <= 0 || ih <= 0 || w <= 0 || h <= 0) {
+  if (iw <= 0 || ih <= 0 || w <= 0 || h <= 0 || !img.width || !img.height) {
     return;
   }
 
@@ -29813,7 +29813,7 @@ module.exports = Stylesheet;
 "use strict";
 
 
-module.exports = "3.2.9";
+module.exports = "0.0.6";
 
 /***/ })
 /******/ ]);

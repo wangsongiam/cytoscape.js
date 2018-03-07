@@ -1,8 +1,17 @@
 {
   "name": "cytoscape-songwang",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "license": "MIT",
   "description": "Graph theory (a.k.a. network) library for analysis and visualisation",
+  "author": {
+    "name": "Song Wang",
+    "email": "wangsongiam@gmail.com",
+    "url": "https://songwang.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangsongiam/cytoscape.js.git"
+  },
   "keywords": [
     "graph",
     "graph-theory",
